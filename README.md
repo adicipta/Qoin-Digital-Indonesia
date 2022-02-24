@@ -4,7 +4,7 @@ ini adalah technical test PT.Qoin Digital Indonesia
 # How to use
 - Clone this repository in your $PATH:
 ```
-$ git clone 
+$ git clone https://github.com/adicipta/Qoin-Digital-Indonesia
 ```
 - Run `main.go`
 ```
